@@ -8,6 +8,7 @@ public class LearningMethod {
 		int a;
 		int b;
 		String c;
+		System.out.println("Show method called");
 	}
 	public int display(int k,String a,char c,float f,boolean b)//declare
 	{

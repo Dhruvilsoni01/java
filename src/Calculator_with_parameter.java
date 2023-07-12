@@ -3,7 +3,7 @@ public class Calculator_with_parameter {
 
 	public int getSum(int num1 , int num2) {
 		int num3=num1+num2;
-		System.out.println("Addition is "+ num3);
+		System.out.println("Addition of two numbers "+ num3);
 		return num3;
 	}
 	

@@ -13,12 +13,7 @@ public class test {
 		//To maximize the window
 		driver.manage().window().maximize();
 	 driver.get("https://ultimateqa.com/automation");
-		
-		
-		
-		
-		
-		
+				
 		Thread.sleep(3000);
 		driver.close();
 		
